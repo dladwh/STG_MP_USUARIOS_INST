@@ -1,1 +1,1 @@
-grant select on STG_MP_USUARIOS_INST to DW_LOAD;
+grant select on DW_STG.STG_MP_USUARIOS_INST to DW_LOAD;
